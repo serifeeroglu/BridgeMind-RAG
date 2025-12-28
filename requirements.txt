@@ -1,0 +1,10 @@
+duckduckgo-search
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+chromadb
+llama-cpp-python
+pypdf
+sentence-transformers
+torch
+requests
